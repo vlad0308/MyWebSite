@@ -16,7 +16,6 @@
     <Folder Include="wwwroot\images\" />
     <Folder Include="wwwroot\js\" />
     <Folder Include="wwwroot\sass\" />
-    <Folder Include="Domain\" />
   </ItemGroup>
 
   <ItemGroup>
